@@ -107,7 +107,7 @@ const Login = ({onUserLogin}) => {
             <div className="card card-outline card-primary">
                 <div className="card-header text-center">
                     <Link to="/" className="h1">
-                        <b>Badilny</b>
+                        <b>Admin</b>
                     </Link>
                 </div>
                 <div className="card-body">
